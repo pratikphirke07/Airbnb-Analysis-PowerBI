@@ -1,7 +1,7 @@
 # Airbnb Data Analysis Insights
 **This analysis provides a comprehensive overview of the Airbnb market in New York City, revealing key trends and insights across various metrics:**
 
-* Host Listings by Neighborhood Group:
+* ***Host Listings by Neighborhood Group:***
 Manhattan dominates the accommodation-sharing market, with a significantly higher number of host listings compared to other neighborhoods. This suggests Manhattan is the most popular or active area for short-term rentals.
 Average Price by Room Type:
 
