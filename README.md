@@ -1,5 +1,5 @@
 # Airbnb Data Analysis Insights
-###This analysis provides a comprehensive overview of the Airbnb market in New York City, revealing key trends and insights across various metrics:###
+Markup: ###This analysis provides a comprehensive overview of the Airbnb market in New York City, revealing key trends and insights across various metrics:###
 
 *Host Listings by Neighborhood Group:
 
