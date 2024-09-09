@@ -21,3 +21,9 @@ The distribution of room types shows the majority are entire homes/apartments (5
 
 * ***Price vs. Location:***
 The scatter map displays the geographical distribution and price points of listings. Manhattan has the densest concentration of listings, indicated by a large cluster of high-priced markers.
+
+
+## Video
+
+https://github.com/user-attachments/assets/4376d204-7187-4fd6-8b8d-143d7ed37488
+
